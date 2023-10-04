@@ -1,6 +1,6 @@
-# Pokédex
+# Pokedex
 
-Projeto que simula uma pokédex da obra Pokemon
+Projeto que simula uma pokedex da obra Pokemon
 
 ## Tabela de Conteúdo
 
